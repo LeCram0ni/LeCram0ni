@@ -5,7 +5,7 @@
   <li>Password Generator</li>
 </ul>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react"/><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,npm"/><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js"/><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,npm"/><br>
   <img src="https://skillicons.dev/icons?i=vscode,windows,apple,ps,ai"/>
 </p>
