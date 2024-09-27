@@ -4,6 +4,7 @@
   <li>Flashcards</li>
   <li>Sport Tracker</li>
   <li>Password Generator</li>
+  <li>Bento Page</li>
 </ul>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js"/><br>
