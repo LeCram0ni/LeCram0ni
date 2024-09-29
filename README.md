@@ -5,6 +5,8 @@
   <li>Sport Tracker</li>
   <li>Password Generator</li>
   <li>Bento Page</li>
+  <li>Rezept App</li>
+  <li>Chat Bot</li>
 </ul>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js"/><br>
