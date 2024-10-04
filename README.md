@@ -1,6 +1,7 @@
 <h1>Welcome 👋</h1>
 <h3>Todo</h3>
 <ol>
+  <li>Dollar Euro Kurs + Graph</li>
   <li>Chat Bot</li>
   <li>Rezept App</li>
   <li>Flashcards</li>
