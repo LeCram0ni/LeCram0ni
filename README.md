@@ -14,3 +14,4 @@
   <img src="https://skillicons.dev/icons?i=nodejs,react,npm"/><br>
   <img src="https://skillicons.dev/icons?i=vscode,ps,ai"/>
 </p>
+<strike>Test</strike>
