@@ -1,8 +1,8 @@
 <h1>Welcome 👋</h1>
 <h3>Todo</h3>
 <ol>
-  <strike>Dollar Euro Kurs + Graph</strike>
-  <strike>Password Generator</strike>
+  <li><strike>Dollar Euro Kurs + Graph</strike></li>
+ <li> <strike>Password Generator</strike></li>
   
   <li>Flashcards</li>
   <li>Sport Tracker</li>
